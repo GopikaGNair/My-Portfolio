@@ -11,7 +11,7 @@ function MyWorks() {
                 <div class="grid grid-cols-1 gap-12 md:gap-5 md:grid-cols-3 items-start mb-16">
                     <div class="max-w-sm mx-auto flex flex-col projects-center md:projects-start md:justify-center">
                         <a href="https://www.dreemly.com/" target="_blank" class="w-full relative rounded-xl border-fun-gray border p-2 transition hover:-translate-y-2 hover:opacity-75 hover:border-fun-pink will-change-projectCard">
-                            <img class="w-full h-[11rem] object-contain rounded-md" src="/project-1.png"/>
+                            <img class="w-full h-[11rem] object-contain rounded-md" src="../project-1.png"/>
                         </a>
                         <div class="w-full mt-5">
                             <div class="flex projects-center justify-between">
