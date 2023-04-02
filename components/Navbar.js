@@ -6,10 +6,10 @@ function Navbar() {
   const [navColor, setnavColor] = useState("transparent");
   const [navShadow, setnavShadow] = useState("none");
   const listenScrollEvent = () => {
-    window.scrollY > 10 ? setnavColor("#fff") : setnavColor("transparent");
+    window.scrollY > 10 ? setnavColor("#000a1f") : setnavColor("transparent");
     window.scrollY > 10 ? setnavSize("5rem") : setnavSize("5rem");
     window.scrollY > 10
-      ? setnavShadow("0 4px 20px 0 rgb(0 0 0 / 10%)")
+      ? setnavShadow("0 4px 20px 0 rgb(0 0 0 / 20%)")
       : setnavShadow("none");
   };
   useEffect(() => {
@@ -33,7 +33,7 @@ function Navbar() {
         <div className="md:items-center md:flex justify-between">
             <div className="left">
                 <div className="flex items-center justify-between md:py-5 md:block">
-                    <a href="/" className="text-[25px] font-[Nunito-Bold]">g<span className="text-[#e43a19]">.</span>me</a>
+                    <a href="/" className="text-[25px] font-[Nunito-Bold] text-[#fff]">g<span className="text-[#e43a19]">.</span>me</a>
                     <div className="md:hidden">
                     <button
                         className="p-2 bg-[#e43a19] text-gray-700 rounded-md outline-none"
@@ -80,19 +80,19 @@ function Navbar() {
                 >
                     <ul className="items-center justify-center space-y-8 md:flex md:space-x-6 md:space-y-0">
                     <li>
-                        <Link href="#" className="text-[#151e2e] hover:text-[#ff6a00] font-[Nunito-Bold] text-sm md:text-base px-2 py-2.5 text-center inline-flex items-center">HOME</Link>
+                        <Link href="#" className="text-[#8492a6] hover:text-[#ff6a00] font-[Nunito-Bold] text-sm md:text-base px-2 py-2.5 text-center inline-flex items-center">HOME</Link>
                     </li>
                     <li>
-                        <Link href="#" className="text-[#151e2e] hover:text-[#ff6a00] font-[Nunito-Bold] text-sm md:text-base px-2 py-2.5 text-center inline-flex items-center">SKILLS</Link>
+                        <Link href="#" className="text-[#8492a6] hover:text-[#ff6a00] font-[Nunito-Bold] text-sm md:text-base px-2 py-2.5 text-center inline-flex items-center">SKILLS</Link>
                     </li>
                     <li>
-                        <Link href="#" className="text-[#151e2e] hover:text-[#ff6a00] font-[Nunito-Bold] text-sm md:text-base px-2 py-2.5 text-center inline-flex items-center">PORTFOLIO</Link>
+                        <Link href="#" className="text-[#8492a6] hover:text-[#ff6a00] font-[Nunito-Bold] text-sm md:text-base px-2 py-2.5 text-center inline-flex items-center">PORTFOLIO</Link>
                     </li>
                     <li>
-                        <Link href="#" className="text-[#151e2e] hover:text-[#ff6a00] font-[Nunito-Bold] text-sm md:text-base px-2 py-2.5 text-center inline-flex items-center">EXPERIENCE</Link>
+                        <Link href="#" className="text-[#8492a6] hover:text-[#ff6a00] font-[Nunito-Bold] text-sm md:text-base px-2 py-2.5 text-center inline-flex items-center">EXPERIENCE</Link>
                     </li>
                     <li>
-                        <Link href="#" className="text-[#151e2e] hover:text-[#ff6a00] font-[Nunito-Bold] text-sm md:text-base px-2 py-2.5 text-center inline-flex items-center">CONTACT</Link>
+                        <Link href="#" className="text-[#8492a6] hover:text-[#ff6a00] font-[Nunito-Bold] text-sm md:text-base px-2 py-2.5 text-center inline-flex items-center">CONTACT</Link>
                     </li>
                     </ul>
                 </div>

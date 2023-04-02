@@ -44,38 +44,7 @@ html, body{
   overflow-y: auto;
 }
 
-/* body{
-  background-color: #302729;
-} */
-
-
-.skills_section .skills_list div:after {
-  content: '';
-  width: 8px;
-  height: 8px;
-  background: white;
-  position: absolute;
-  top: 13px;
-  left: 10px;
-  border-radius: 90px;
+body{
+  background-color: #000a1f;
 }
 
-.my_works .overlay{
-  transition: 0.5s ease;
-}
-
-.my_works .project-description{
-  transition: 0s ease;
-}
-
-.my_works .project-tile:hover .overlay {
-  width: 100%;
-  cursor: pointer;
-  transition: 0.5s ease;
-}
-
-.my_works .project-tile:hover .project-description {
-  left: 0;
-  cursor: pointer;
-  transition: 0s ease;
-}
