@@ -20,7 +20,7 @@
   src: url("./fonts/Nunito-SemiBold.eot") format("embedded-opentype"),
     url("./fonts/Nunito-SemiBold.woff2") format("woff2"),
     url("./fonts/Nunito-SemiBold.woff") format("woff"),
-    url("./fonts/Nunito-SemiBold.ttf") format("truetype"),
+    url("./fonts/Nunito-Semibold.ttf") format("truetype"),
     url("./fonts/Nunito-SemiBold.svg") format("svg");
   font-display: swap;
 }
