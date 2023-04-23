@@ -3,9 +3,9 @@ import React from 'react';
 
 function MyHome() {
     return (
-        <section className="md:py-[8em] bg-[#000a1f]">
+        <section className="md:py-[8em] pt-[6em] pb-[2em] home_banner ">
             <div className="container mx-auto lg:px-14 md:px-6 px-4">
-                <div className='p-[20px]'>
+                <div className='md:p-[20px] p-[5px]'>
                     <div className="grid grid-cols-1 md:grid-cols-1 lg:grid-cols-1 gap-4 justify-center items-center">
                         <div className='mb-5 mt-3 md:mt-[50px] text-center'>
                             <h3 className='text-[#8492a6] text-lg md:text-[25px] 2xl:text-[30px] font-[Nunito-Regular] leading-[1.625em] mb-3'>I am</h3>

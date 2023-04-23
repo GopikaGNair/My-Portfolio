@@ -3,7 +3,7 @@ import React from 'react';
 
 function MySkills() {
     return (
-        <section className="py-[4em] skills_section">
+        <section className="md:py-[4em] py-[2em] skills_section">
             <div className="container mx-auto lg:px-14 md:px-6 px-4">
                 <div className="grid grid-cols-1 md:grid-cols-1 lg:grid-cols-2 gap-4  items-center">
                     <div className='text-left'>

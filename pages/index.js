@@ -3,7 +3,9 @@ import Navbar from '@/components/Navbar'
 import Script from 'next/script'
 import MyHome from '@/components/MyHome'
 import MySkills from '@/components/MySkills'
-import MyWorks from '@/components/MyWorks'
+import MyExperience from '@/components/MyExperience'
+import MyUIWorks from '@/components/MyUIWorks'
+import MyUXWorks from '@/components/MyUXWorks'
 
 export default function Home() {
   return (
@@ -19,7 +21,9 @@ export default function Home() {
         <Navbar/>
         <MyHome/>
         <MySkills/>
-        <MyWorks/>
+        <MyUIWorks/>
+        <MyUXWorks/>
+        <MyExperience/>
       </main>
       <footer>
         <Script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.3/flowbite.min.js" />

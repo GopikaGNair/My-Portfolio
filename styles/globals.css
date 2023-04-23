@@ -48,3 +48,9 @@ body{
   background-color: #000a1f;
 }
 
+
+.home_banner{
+  background: url(../public/home-shape.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
