@@ -29,7 +29,7 @@ function MyUIWorks() {
                                     <h3 className="text-lg text-[#fff] font-[Nunito-Bold]">Dreemly</h3>
                                 </a>
                             </div>
-                            <p className="text-[#8492a6] text-left text-sm">All the resources you will need to get a boost into economics.</p>
+                            <p className="text-[#8492a6] text-left text-sm">Dreemly is a Social Network platform</p>
                             <ul className="flex flex-wrap items-center mt-2 -ml-2 list-none">
                                 <li><div class="m-1 rounded-lg text-sm bg-[#8492a6] py-1 px-2 cursor-pointer hover:opacity-75">React Js</div></li>
                                 <li><div class="m-1 rounded-lg text-sm bg-[#8492a6] py-1 px-2 cursor-pointer hover:opacity-75">CSS</div></li>
@@ -46,7 +46,7 @@ function MyUIWorks() {
                                     <h3 class="text-lg text-[#fff] font-[Nunito-Bold]">Truckio</h3>
                                 </a>
                             </div>
-                            <p class="text-[#8492a6] text-left text-sm">All the resources you will need to get a boost into economics.</p>
+                            <p class="text-[#8492a6] text-left text-sm">Truckio provides fast and affordable truck services to the users.</p>
                             <ul class="flex flex-wrap items-center mt-2 -ml-2 list-none">
                                 <li><div class="m-1 rounded-lg text-sm bg-[#8492a6] py-1 px-2 cursor-pointer hover:opacity-75">Next JS</div></li>
                                 <li><div class="m-1 rounded-lg text-sm bg-[#8492a6] py-1 px-2 cursor-pointer hover:opacity-75">CSS</div></li>
@@ -54,16 +54,16 @@ function MyUIWorks() {
                         </div>
                     </div>
                     <div class="max-w-sm mx-auto flex flex-col projects-center md:projects-start md:justify-center">
-                        <a href="https://truckio-landing-page.vercel.app/" target="_blank" class="w-full relative rounded-xl transition hover:-translate-y-2 hover:opacity-75 hover:border-fun-pink">
+                        <a href="https://codeventures-nextjs-q1t9vs56z-infraaccounts-armiasystems.vercel.app/" target="_blank" class="w-full relative rounded-xl transition hover:-translate-y-2 hover:opacity-75 hover:border-fun-pink">
                             <img class="w-full h-[11rem] object-cover rounded-md" src="/project-3.svg"/>
                         </a>
                         <div class="w-full mt-5">
                             <div class="flex projects-center justify-between">
-                                <a href="https://truckio-landing-page.vercel.app/" target="_blank">
+                                <a href="https://codeventures-nextjs-q1t9vs56z-infraaccounts-armiasystems.vercel.app/" target="_blank">
                                     <h3 class="text-lg text-[#fff] font-[Nunito-Bold]">Code Ventures</h3>
                                 </a>
                             </div>
-                            <p class="text-[#8492a6] text-left text-sm">All the resources you will need to get a boost into economics.</p>
+                            <p class="text-[#8492a6] text-left text-sm">Technical Platform</p>
                             <ul class="flex flex-wrap items-center mt-2 -ml-2 list-none">
                                 <li><div class="m-1 rounded-lg text-sm bg-[#8492a6] py-1 px-2 cursor-pointer hover:opacity-75">Next JS</div></li>
                                 <li><div class="m-1 rounded-lg text-sm bg-[#8492a6] py-1 px-2 cursor-pointer hover:opacity-75">CSS</div></li>
@@ -82,7 +82,7 @@ function MyUIWorks() {
                                     <h3 class="text-lg text-[#fff] font-[Nunito-Bold]">ParkCity</h3>
                                 </a>
                             </div>
-                            <p class="text-[#8492a6] text-left text-sm">All the resources you will need to get a boost into economics.</p>
+                            <p class="text-[#8492a6] text-left text-sm">Parking App template landing page.</p>
                             <ul class="flex flex-wrap items-center mt-2 -ml-2 list-none">
                                 <li><div class="m-1 rounded-lg text-sm bg-[#8492a6] py-1 px-2 cursor-pointer hover:opacity-75">React Js</div></li>
                                 <li><div class="m-1 rounded-lg text-sm bg-[#8492a6] py-1 px-2 cursor-pointer hover:opacity-75">CSS</div></li>
@@ -99,7 +99,7 @@ function MyUIWorks() {
                                     <h3 class="text-lg text-[#fff] font-[Nunito-Bold]">Checkr</h3>
                                 </a>
                             </div>
-                            <p class="text-[#8492a6] text-left text-sm">All the resources you will need to get a boost into economics.</p>
+                            <p class="text-[#8492a6] text-left text-sm">Checkr template landing page.</p>
                             <ul class="flex flex-wrap items-center mt-2 -ml-2 list-none">
                                 <li><div class="m-1 rounded-lg text-sm bg-[#8492a6] py-1 px-2 cursor-pointer hover:opacity-75">Next JS</div></li>
                                 <li><div class="m-1 rounded-lg text-sm bg-[#8492a6] py-1 px-2 cursor-pointer hover:opacity-75">Tailwind CSS</div></li>
@@ -116,7 +116,7 @@ function MyUIWorks() {
                                     <h3 class="text-lg text-[#fff] font-[Nunito-Bold]">Upword</h3>
                                 </a>
                             </div>
-                            <p class="text-[#8492a6] text-left text-sm">All the resources you will need to get a boost into economics.</p>
+                            <p class="text-[#8492a6] text-left text-sm">Upword template landing page.</p>
                             <ul class="flex flex-wrap items-center mt-2 -ml-2 list-none">
                                 <li><div class="m-1 rounded-lg text-sm bg-[#8492a6] py-1 px-2 cursor-pointer hover:opacity-75">Next JS</div></li>
                                 <li><div class="m-1 rounded-lg text-sm bg-[#8492a6] py-1 px-2 cursor-pointer hover:opacity-75">Tailwind CSS</div></li>
@@ -135,7 +135,7 @@ function MyUIWorks() {
                                     <h3 class="text-lg text-[#fff] font-[Nunito-Bold]">GetHost</h3>
                                 </a>
                             </div>
-                            <p class="text-[#8492a6] text-left text-sm">All the resources you will need to get a boost into economics.</p>
+                            <p class="text-[#8492a6] text-left text-sm">GetHost template landing page.</p>
                             <ul class="flex flex-wrap items-center mt-2 -ml-2 list-none">
                                 <li><div class="m-1 rounded-lg text-sm bg-[#8492a6] py-1 px-2 cursor-pointer hover:opacity-75">React Js</div></li>
                                 <li><div class="m-1 rounded-lg text-sm bg-[#8492a6] py-1 px-2 cursor-pointer hover:opacity-75">Tailwind CSS</div></li>
@@ -152,7 +152,7 @@ function MyUIWorks() {
                                     <h3 class="text-lg text-[#fff] font-[Nunito-Bold]">Apland</h3>
                                 </a>
                             </div>
-                            <p class="text-[#8492a6] text-left text-sm">All the resources you will need to get a boost into economics.</p>
+                            <p class="text-[#8492a6] text-left text-sm">Apland template landing page.</p>
                             <ul class="flex flex-wrap items-center mt-2 -ml-2 list-none">
                                 <li><div class="m-1 rounded-lg text-sm bg-[#8492a6] py-1 px-2 cursor-pointer hover:opacity-75">Next JS</div></li>
                                 <li><div class="m-1 rounded-lg text-sm bg-[#8492a6] py-1 px-2 cursor-pointer hover:opacity-75">Tailwind CSS</div></li>
@@ -169,7 +169,7 @@ function MyUIWorks() {
                                     <h3 class="text-lg text-[#fff] font-[Nunito-Bold]">Mosto</h3>
                                 </a>
                             </div>
-                            <p class="text-[#8492a6] text-left text-sm">All the resources you will need to get a boost into economics.</p>
+                            <p class="text-[#8492a6] text-left text-sm">Mosto template landing page.</p>
                             <ul class="flex flex-wrap items-center mt-2 -ml-2 list-none">
                                 <li><div class="m-1 rounded-lg text-sm bg-[#8492a6] py-1 px-2 cursor-pointer hover:opacity-75">Next JS</div></li>
                                 <li><div class="m-1 rounded-lg text-sm bg-[#8492a6] py-1 px-2 cursor-pointer hover:opacity-75">Tailwind CSS</div></li>
