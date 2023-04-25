@@ -1,11 +1,20 @@
 import Link from 'next/link';
-import React from 'react';
+import React, { useEffect } from 'react';
+import AOS from "aos";
 
 function MyUIWorks() {
+    useEffect(() => {
+        AOS.init({
+          easing: "ease-out-cubic",
+          once: true,
+          offset: 50,
+          delay: 50,
+        });
+      });
     return (
-        <section className="md:py-[3em] py-[2em] my_works">
+        <section className="md:py-[3em] py-[2em] my_works" id="uiworks">
             <div className="container mx-auto lg:px-14 md:px-6 px-4">
-                <div className='relative text-center mb-5 pb-5'>
+                <div className='relative text-center mb-5 pb-5' data-aos="fade-up" data-aos-duration="1000">
 					<h2 className='text-[#fff] text-[26px] md:text-[30px] lg:text-[40px] 2xl:text-[50px] font-[Nunito-Bold] leading-[1em] mb-4'>My UI Works</h2>
 					<p className="text-[#8492a6] text-sm">These are the links to some of my UI Design works</p>
                 </div>

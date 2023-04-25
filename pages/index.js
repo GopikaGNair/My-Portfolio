@@ -6,6 +6,9 @@ import MySkills from '@/components/MySkills'
 import MyExperience from '@/components/MyExperience'
 import MyUIWorks from '@/components/MyUIWorks'
 import MyUXWorks from '@/components/MyUXWorks'
+import MyAchievements from '@/components/MyAchievements'
+import MyContact from '@/components/MyContact'
+import Footer from '@/components/Footer'
 
 export default function Home() {
   return (
@@ -24,6 +27,9 @@ export default function Home() {
         <MyUIWorks/>
         <MyUXWorks/>
         <MyExperience/>
+        <MyAchievements/>
+        <MyContact/>
+        <Footer/>
       </main>
       <footer>
         <Script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.3/flowbite.min.js" />
