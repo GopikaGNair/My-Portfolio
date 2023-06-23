@@ -19,7 +19,7 @@ function MyAchievements() {
                         <h6 className='text-[#fff] text-[16px] md:text-[18px] font-[Nunito-Regular]'>Years of Experience</h6>
                     </div>
                     <div className='bg-[#e43a19] p-[35px] rounded-lg text-center'>
-                        <h2 className='text-[#fff] text-[20px] md:text-[32px] font-[Nunito-Bold]' data-aos="flip-right" data-aos-duration="2000">20+</h2>
+                        <h2 className='text-[#fff] text-[20px] md:text-[32px] font-[Nunito-Bold]' data-aos="flip-right" data-aos-duration="2000">30+</h2>
                         <h6 className='text-[#fff] text-[16px] md:text-[18px] font-[Nunito-Regular]'>Completed</h6>
                     </div>
                     <div className='bg-[#e43a19] p-[35px] rounded-lg text-center'>

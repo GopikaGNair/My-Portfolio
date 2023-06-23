@@ -17,51 +17,77 @@ function MyUXWorks() {
 					<h2 className='text-[#fff] text-[26px] md:text-[30px] lg:text-[40px] 2xl:text-[50px] font-[Nunito-Bold] leading-[1em] mb-4'>My UX Works</h2>
 					<p className="text-[#8492a6] text-sm">These are the links to some of my UX Design works</p>
                 </div>
-                <div className="grid grid-cols-1 gap-12 md:gap-5 md:grid-cols-2 items-start mt-[30px] mb-16">
+                <div className="grid grid-cols-1 gap-12 md:gap-5 md:grid-cols-3 items-start mt-[30px] mb-16">
                     <div className="flex flex-col projects-center md:projects-start md:justify-center">
-                        <a href="https://xd.adobe.com/view/132a4821-d3f6-4147-8623-e9b45a58dca7-4679/" target="_blank" class="w-full relative rounded-xl transition hover:-translate-y-2 hover:opacity-75 hover:border-fun-pink">
-                            <img className="w-full h-[15rem] object-cover rounded-md" src="/MobileUX-1.svg"/>
+                        <a href="https://xd.adobe.com/view/a2ed03dd-31d8-4995-a81e-fd3d4272c18f-f7be/?fullscreen" target="_blank" class="w-full bg-[#000] relative rounded-xl transition hover:-translate-y-2 hover:opacity-75 hover:border-fun-pink">
+                            <img className="w-full h-[15rem] object-contain rounded-md" src="/WebUX-2.svg"/>
                         </a>
                         <div className="w-full mt-5">
                             <div className="flex projects-center justify-between">
                                 <a href="https://xd.adobe.com/view/132a4821-d3f6-4147-8623-e9b45a58dca7-4679/" target="_blank">
-                                    <h3 className="text-lg text-[#fff] font-[Nunito-Bold]">Medistacks - Mobile App</h3>
+                                    <h3 className="text-lg text-[#fff] font-[Nunito-Bold]">Meld Foods - Web Application</h3>
+                                </a>
+                            </div>
+                            <p className="text-[#8492a6] text-left text-sm">Food ordering and delivery partner.</p>
+                        </div>
+                    </div>
+                    <div className="flex flex-col projects-center md:projects-start md:justify-center">
+                        <a href="https://xd.adobe.com/view/132a4821-d3f6-4147-8623-e9b45a58dca7-4679/" target="_blank" class="w-full bg-[#000] relative rounded-xl transition hover:-translate-y-2 hover:opacity-75 hover:border-fun-pink">
+                            <img className="w-full h-[15rem] object-contain rounded-md" src="/MobileUX-1.svg"/>
+                        </a>
+                        <div className="w-full mt-5">
+                            <div className="flex projects-center justify-between">
+                                <a href="https://xd.adobe.com/view/132a4821-d3f6-4147-8623-e9b45a58dca7-4679/" target="_blank">
+                                    <h3 className="text-lg text-[#fff] font-[Nunito-Bold]">Medistacks - Mobile Application</h3>
                                 </a>
                             </div>
                             <p className="text-[#8492a6] text-left text-sm">Platform that will be a premier and authentic gateway to the Ayurvedic experience</p>
                         </div>
                     </div>
                     <div className="flex flex-col projects-center md:projects-start md:justify-center">
-                        <a href="https://xd.adobe.com/view/12116510-4553-423a-a6cb-467ff3e4fbf2-4742/" target="_blank" class="w-full relative rounded-xl transition hover:-translate-y-2 hover:opacity-75 hover:border-fun-pink">
-                            <img className="w-full h-[15rem] object-cover rounded-md" src="/WebUX-1.svg"/>
+                        <a href="https://xd.adobe.com/view/12116510-4553-423a-a6cb-467ff3e4fbf2-4742/" target="_blank" class="w-full bg-[#000] relative rounded-xl transition hover:-translate-y-2 hover:opacity-75 hover:border-fun-pink">
+                            <img className="w-full h-[15rem] object-contain rounded-md" src="/WebUX-1.svg"/>
                         </a>
                         <div class="w-full mt-5">
                             <div class="flex projects-center justify-between">
                                 <a href="https://xd.adobe.com/view/12116510-4553-423a-a6cb-467ff3e4fbf2-4742/" target="_blank">
-                                    <h3 class="text-lg text-[#fff] font-[Nunito-Bold]">Medistacks - Web</h3>
+                                    <h3 class="text-lg text-[#fff] font-[Nunito-Bold]">Medistacks - Web Application</h3>
                                 </a>
                             </div>
                             <p class="text-[#8492a6] text-left text-sm">Platform that will be a premier and authentic gateway to the Ayurvedic experience</p>
                         </div>
                     </div>
                 </div>
-                <div class="grid grid-cols-1 gap-12 md:gap-5 md:grid-cols-2 items-start mb-16">
+                <div class="grid grid-cols-1 gap-12 md:gap-5 md:grid-cols-3 items-start mb-16">
+                    <div className="flex flex-col projects-center md:projects-start md:justify-center">
+                        <a href="https://xd.adobe.com/view/e1a1f9b4-e558-4f8c-9783-76b7f406bfd9-b4f2/?fullscreen" target="_blank" class="w-full bg-[#000] relative rounded-xl transition hover:-translate-y-2 hover:opacity-75 hover:border-fun-pink">
+                            <img className="w-full h-[15rem] object-contain rounded-md" src="/WebUX-3.svg"/>
+                        </a>
+                        <div className="w-full mt-5">
+                            <div className="flex projects-center justify-between">
+                                <a href="https://xd.adobe.com/view/132a4821-d3f6-4147-8623-e9b45a58dca7-4679/" target="_blank">
+                                    <h3 className="text-lg text-[#fff] font-[Nunito-Bold]">Healthest - Web Application</h3>
+                                </a>
+                            </div>
+                            <p className="text-[#8492a6] text-left text-sm">Healthcare service platform.</p>
+                        </div>
+                    </div>
                     <div class="flex flex-col projects-center md:projects-start md:justify-center">
-                        <a href="https://xd.adobe.com/view/e0132b25-0991-44ee-9153-d56df5aa33b0-b540/" target="_blank" class="w-full relative rounded-xl transition hover:-translate-y-2 hover:opacity-75 hover:border-fun-pink">
-                            <img class="w-full h-[15rem] object-cover rounded-md" src="/MobileUX-2.svg"/>
+                        <a href="https://xd.adobe.com/view/e0132b25-0991-44ee-9153-d56df5aa33b0-b540/" target="_blank" class="w-full bg-[#000] relative rounded-xl transition hover:-translate-y-2 hover:opacity-75 hover:border-fun-pink">
+                            <img class="w-full h-[15rem] object-contain rounded-md" src="/MobileUX-2.svg"/>
                         </a>
                         <div class="w-full mt-5">
                             <div class="flex projects-center justify-between">
                                 <a href="https://xd.adobe.com/view/e0132b25-0991-44ee-9153-d56df5aa33b0-b540/" target="_blank">
-                                    <h3 class="text-lg text-[#fff] font-[Nunito-Bold]">Mobile App Template</h3>
+                                    <h3 class="text-lg text-[#fff] font-[Nunito-Bold]">Mobile Application Template</h3>
                                 </a>
                             </div>
-                            <p class="text-[#8492a6] text-left text-sm">Mobile App template layout.</p>
+                            <p class="text-[#8492a6] text-left text-sm">Mobile Application template layout.</p>
                         </div>
                     </div>
                     <div class="flex flex-col projects-center md:projects-start md:justify-center">
-                        <a href="https://www.figma.com/file/qh6WvsxAxgO9X5dFHDwSls/Blackcopper?node-id=0%3A1&t=Gb28cDR1Z0oJXgKk-1" target="_blank" class="w-full relative rounded-xl transition hover:-translate-y-2 hover:opacity-75 hover:border-fun-pink">
-                            <img class="w-full h-[15rem] object-cover rounded-md" src="/MobileUX-3.svg"/>
+                        <a href="https://www.figma.com/file/qh6WvsxAxgO9X5dFHDwSls/Blackcopper?node-id=0%3A1&t=Gb28cDR1Z0oJXgKk-1" target="_blank" class="w-full bg-[#000] relative rounded-xl transition hover:-translate-y-2 hover:opacity-75 hover:border-fun-pink">
+                            <img class="w-full h-[15rem] object-contain rounded-md" src="/MobileUX-3.svg"/>
                         </a>
                         <div class="w-full mt-5">
                             <div class="flex projects-center justify-between">
