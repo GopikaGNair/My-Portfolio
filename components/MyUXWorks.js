@@ -59,7 +59,7 @@ function MyUXWorks() {
                     </div>
                 </div>
                 <div class="grid grid-cols-1 gap-12 md:gap-5 md:grid-cols-3 items-start mb-16">
-                    <div className="flex flex-col projects-center md:projects-start md:justify-center">
+                    {/* <div className="flex flex-col projects-center md:projects-start md:justify-center">
                         <a href="https://xd.adobe.com/view/e1a1f9b4-e558-4f8c-9783-76b7f406bfd9-b4f2/?fullscreen" target="_blank" class="w-full bg-[#000] relative rounded-xl transition hover:-translate-y-2 hover:opacity-75 hover:border-fun-pink">
                             <img className="w-full h-[15rem] object-contain rounded-md" src="/WebUX-3.svg"/>
                         </a>
@@ -71,7 +71,7 @@ function MyUXWorks() {
                             </div>
                             <p className="text-[#8492a6] text-left text-sm">Healthcare service platform.</p>
                         </div>
-                    </div>
+                    </div> */}
                     <div class="flex flex-col projects-center md:projects-start md:justify-center">
                         <a href="https://xd.adobe.com/view/e0132b25-0991-44ee-9153-d56df5aa33b0-b540/" target="_blank" class="w-full bg-[#000] relative rounded-xl transition hover:-translate-y-2 hover:opacity-75 hover:border-fun-pink">
                             <img class="w-full h-[15rem] object-contain rounded-md" src="/MobileUX-2.svg"/>
